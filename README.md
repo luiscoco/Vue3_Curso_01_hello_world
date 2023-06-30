@@ -1,5 +1,7 @@
 # 01_hello_world
 
+https://github.com/JJRuizDeveloper/curso-vue
+
 ## Project setup
 ```
 npm install
